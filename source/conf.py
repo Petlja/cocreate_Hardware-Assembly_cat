@@ -1,5 +1,5 @@
 
-project = 'CoCreate Hardware Assembly EN'
+project = 'CoCreate Hardware Assembly CAT'
 copyright = '2025, Fondacija Petlja'
 author = 'Universitat Pompeu Fabra Barcelona'
 
