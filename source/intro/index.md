@@ -1,7 +1,7 @@
 ---
 status: exclude
 ---
-# Welcome
+# Benvingut
 
 ```{toctree}
 :maxdepth: 2

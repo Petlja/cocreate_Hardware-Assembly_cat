@@ -1,46 +1,46 @@
-﻿# About the Course
+﻿# Sobre el Curs
 
-## Objectives
+## Objectius
 
-- Learn techniques and procedures for assembling and disassembling computer equipment.
-- Learn how to work with hand tools, protective gear, and technology, using laptops and the platform correctly.
-- Develop collaboration, communication, problem-solving, teamwork, and time management skills.
+- Aprendre tècniques i procediments per muntar i desmuntar equipament informàtic.
+- Aprendre a treballar amb eines manuals, equips de protecció i tecnologia, utilitzant portàtils i la plataforma correctament.
+- Desenvolupar habilitats de col·laboració, comunicació, resolució de problemes, treball en equip i gestió del temps.
 
-## Prerequisites
+## Requisits Previs
 
-Students participating in this activity should already be familiar with the components used in assembling computer systems, as well as their key specifications, including:
+Els alumnes que participin en aquesta activitat ja haurien d'estar familiaritzats amb els components utilitzats en el muntatge de sistemes informàtics, així com amb les seves especificacions clau, incloent-hi:
 
-- Power Supply: Power rating (W), Voltage (V), Molex, SATA and PCIe (for GPUs) **connectors, Form factors** (ATX, SFX, etc.)
-- Motherboard: CPU socket type (e.g., LGA, AM), **RAM slots** (number and type), Expansion slots (PCI, PCIe, M.2), USB ports (2.0, 3.0, 3.1, 3.2, USB-C), Data and power **connectors** (SATA, Molex, M.2, NVMe) **Chipset and overall compatibility**.
-- RAM: Capacity and technology (e.g., DDR, DDR2, DDR3, DDR4), Transfer rate and frequency, Timings, ECC support, **Chip layout**
-- Hard Drive (HDD): Rotation speed (RPM), Data transfer rate, Data and power connections, **Connectors** (SATA, Molex).
-- Solid State Drive (SSD): **Connectors** (SATA, M.2 SATA, NVMe PCIe), Read/write speed (MB/s or GB/s).
-- Processor (CPU): Number of cores and threads, Base and turbo frequency (GHz), Cache (L1, L2, L3), Power consumption (TDP), **Compatibility with motherboard/socket**.
-- Cooling Systems: Fans (size, RPM, airflow in CFM), CPU cooler (air or liquid cooling), **Thermal paste** (thermal conductivity W/mK)
-- Case / Chassis: **Form factor** (ATX, Micro-ATX, Mini-ITX), Cable management features, Space for fans, Drive bays for HDD/SSD.
+- Font d'alimentació: Potència (W), Tensió (V), **connectors** Molex, SATA i PCIe (per a GPU), **Factors de forma** (ATX, SFX, etc.)
+- Placa base: Tipus de sòcol de CPU (p. ex., LGA, AM), **Ranures de RAM** (nombre i tipus), Ranures d'expansió (PCI, PCIe, M.2), Ports USB (2.0, 3.0, 3.1, 3.2, USB-C), **Connectors** de dades i alimentació (SATA, Molex, M.2, NVMe), **Chipset i compatibilitat general**.
+- RAM: Capacitat i tecnologia (p. ex., DDR, DDR2, DDR3, DDR4), Taxa de transferència i freqüència, Temporitzacions, Suport ECC, **Disposició dels xips**
+- Disc dur (HDD): Velocitat de rotació (RPM), Taxa de transferència de dades, Connexions de dades i alimentació, **Connectors** (SATA, Molex).
+- Unitat d'estat sòlid (SSD): **Connectors** (SATA, M.2 SATA, NVMe PCIe), Velocitat de lectura/escriptura (MB/s o GB/s).
+- Processador (CPU): Nombre de nuclis i fils, Freqüència base i turbo (GHz), Memòria cau (L1, L2, L3), Consum d'energia (TDP), **Compatibilitat amb la placa base/sòcol**.
+- Sistemes de refrigeració: Ventiladors (mida, RPM, flux d'aire en CFM), Refrigerador de CPU (refrigeració per aire o líquid), **Pasta tèrmica** (conductivitat tèrmica W/mK)
+- Caixa / Xassís: **Factor de forma** (ATX, Micro-ATX, Mini-ITX), Funcions de gestió de cables, Espai per a ventiladors, Bahies per a HDD/SSD.
 
-## Course Description
+## Descripció del Curs
 
-In this course, learners will **safely and collaboratively disassemble and reassemble a computer system**, identify and record its components, and produce clear, accurate technical documentation of the entire process. The activity will be carried out across four sessions:
+En aquest curs, els alumnes **desmuntaran i muntaran de manera segura i col·laborativa un sistema informàtic**, identificaran i registraran els seus components, i produiran documentació tècnica clara i precisa de tot el procés. L'activitat es durà a terme en quatre sessions:
 
 ## Sessions
 
-### Session 1 - Collaboration and Safety Rules
+### Sessió 1 - Regles de Col·laboració i Seguretat
 
-We will form work groups, review **collaboration tips** to guide your teamwork in completing the activity, and go over **safety protocols** for handling hardware components.
+Formarem grups de treball, revisarem **consells de col·laboració** per guiar el vostre treball en equip durant l'activitat, i repassarem els **protocols de seguretat** per a la manipulació de components de maquinari.
 
-### Session 2 - Developing a Disassembly Tutorial
+### Sessió 2 - Elaboració d'un Tutorial de Desmuntatge
 
-Each group will disassemble a computer, documenting each step with written notes and photographs to create a **disassembly tutorial**.
+Cada grup desmuntarà un ordinador, documentant cada pas amb notes escrites i fotografies per crear un **tutorial de desmuntatge**.
 
-### Session 3 - Creating a Hardware Inventory
+### Sessió 3 - Creació d'un Inventari de Maquinari
 
-With the computer disassembled, each group will proceed to identify and document the technical specifications of the components to create a **hardware inventory**. 
+Amb l'ordinador desmuntat, cada grup identificarà i documentarà les especificacions tècniques dels components per crear un **inventari de maquinari**.
 
-### Session 4 - Developing an Assembly Tutorial
+### Sessió 4 - Elaboració d'un Tutorial de Muntatge
 
-Each group will develop an **assembly tutorial** by reassembling the computer, and documenting and taking pictures of the process. 
+Cada grup elaborarà un **tutorial de muntatge** tornant a muntar l'ordinador, i documentant i fotografiant el procés. 
 
 ```{suggestionnote}
-At the end of every session, groups will record their progress and individual member contributions, allowing the teacher to monitor both task advancement and the collaboration process.
+Al final de cada sessió, els grups registraran el seu progrés i les contribucions individuals de cada membre, permetent al professor fer un seguiment tant de l'avenç de la tasca com del procés de col·laboració.
 ```
